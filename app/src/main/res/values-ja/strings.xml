@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Strength Viewer</string>
+    <string name="action_settings">設定</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">次へ</string>
+    <string name="previous">戻る</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="strength_Achiever">達成欲</string>
+    <string name="strength_Activator">活発性</string>
+    <string name="strength_Adaptability">適応性</string>
+    <string name="strength_Analytical">分析思考</string>
+    <string name="strength_Arranger">アレンジ</string>
+    <string name="strength_Belief">信念</string>
+    <string name="strength_Command">指令性</string>
+    <string name="strength_Communication">コミュニケーション</string>
+    <string name="strength_Competition">競争性</string>
+    <string name="strength_Connectedness">運命思考</string>
+    <string name="strength_Consistency">公平性</string>
+    <string name="strength_Context">原点思考</string>
+    <string name="strength_Deliberative">慎重さ</string>
+    <string name="strength_Developer">成長促進</string>
+    <string name="strength_Discipline">規律性</string>
+    <string name="strength_Empathy">共感性</string>
+    <string name="strength_Focus">目標志向</string>
+    <string name="strength_Futuristic">未来志向</string>
+    <string name="strength_Harmony">調和性</string>
+    <string name="strength_Ideation">着想</string>
+    <string name="strength_Inclusiveness">包含</string>
+    <string name="strength_Individualization">個別化</string>
+    <string name="strength_Input">収集心</string>
+    <string name="strength_Intellection">内省</string>
+    <string name="strength_Learner">学習欲</string>
+    <string name="strength_Maximizer">最上志向</string>
+    <string name="strength_Positivity">ポジティブ</string>
+    <string name="strength_Relator">親密性</string>
+    <string name="strength_Responsibility">責任感</string>
+    <string name="strength_Restorative">回復志向</string>
+    <string name="strength_Selfassurance">自己確信</string>
+    <string name="strength_Significance">自我</string>
+    <string name="strength_Strategic">戦略性</string>
+    <string name="strength_Woo">社交性</string>
+</resources>

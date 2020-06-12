@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Strength Viewer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="strength_Achiever">Achiever</string>
+    <string name="strength_Activator">Activator</string>
+    <string name="strength_Adaptability">Adaptability</string>
+    <string name="strength_Analytical">Analytical</string>
+    <string name="strength_Arranger">Arranger</string>
+    <string name="strength_Belief">Belief</string>
+    <string name="strength_Command">Command</string>
+    <string name="strength_Communication">Communication</string>
+    <string name="strength_Competition">Competition</string>
+    <string name="strength_Connectedness">Connectedness</string>
+    <string name="strength_Consistency">Consistency</string>
+    <string name="strength_Context">Context</string>
+    <string name="strength_Deliberative">Deliberative</string>
+    <string name="strength_Developer">Developer</string>
+    <string name="strength_Discipline">Discipline</string>
+    <string name="strength_Empathy">Empathy</string>
+    <string name="strength_Focus">Focus</string>
+    <string name="strength_Futuristic">Futuristic</string>
+    <string name="strength_Harmony">Harmony</string>
+    <string name="strength_Ideation">Ideation</string>
+    <string name="strength_Inclusiveness">Inclusiveness</string>
+    <string name="strength_Individualization">Individualization</string>
+    <string name="strength_Input">Input</string>
+    <string name="strength_Intellection">Intellection</string>
+    <string name="strength_Learner">Learner</string>
+    <string name="strength_Maximizer">Maximizer</string>
+    <string name="strength_Positivity">Positivity</string>
+    <string name="strength_Relator">Relator</string>
+    <string name="strength_Responsibility">Responsibility</string>
+    <string name="strength_Restorative">Restorative</string>
+    <string name="strength_Selfassurance">Self-assurance</string>
+    <string name="strength_Significance">Significance</string>
+    <string name="strength_Strategic">Strategic</string>
+    <string name="strength_Woo">Woo</string>
+</resources>
