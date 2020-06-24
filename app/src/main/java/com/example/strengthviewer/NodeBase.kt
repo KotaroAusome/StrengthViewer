@@ -6,7 +6,7 @@ import android.graphics.Point
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatButton
 
-open class NodeBase : AppCompatButton {
+open class NodeBase(context: Context) : AppCompatButton(context) {
     private lateinit var _positionXY: Point
     private lateinit var _connectPosXY: Point
 
@@ -23,10 +23,7 @@ open class NodeBase : AppCompatButton {
             _connectPosXY = value
         }
 
-    constructor(context: Context) : super(context) {
-    }
-
-    protected fun init(attrs: AttributeSet?, defStyle: Int) {
+    fun init(attrs: AttributeSet?, defStyle: Int) {
         setBackgroundResource(R.drawable.shape_sample)
     }
 
